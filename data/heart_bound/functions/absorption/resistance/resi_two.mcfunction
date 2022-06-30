@@ -1,0 +1,17 @@
+execute if score @s hb.resi_duration matches 1 run effect give @s minecraft:resistance 1 1
+execute if score @s hb.resi_duration matches 2 run effect give @s minecraft:resistance 2 1
+execute if score @s hb.resi_duration matches 3 run effect give @s minecraft:resistance 3 1
+execute if score @s hb.resi_duration matches 4 run effect give @s minecraft:resistance 4 1
+execute if score @s hb.resi_duration matches 5 run effect give @s minecraft:resistance 5 1
+execute if score @s hb.resi_duration matches 6 run effect give @s minecraft:resistance 6 1
+execute if score @s hb.resi_duration matches 7 run effect give @s minecraft:resistance 7 1
+execute if score @s hb.resi_duration matches 8 run effect give @s minecraft:resistance 8 1
+execute if score @s hb.resi_duration matches 9 run effect give @s minecraft:resistance 9 1
+execute if score @s hb.resi_duration matches 10 run effect give @s minecraft:resistance 10 1
+execute if score @s hb.resi_duration matches 11 run effect give @s minecraft:resistance 11 1
+execute if score @s hb.resi_duration matches 12 run effect give @s minecraft:resistance 12 1
+execute if score @s hb.resi_duration matches 13 run effect give @s minecraft:resistance 13 1
+execute if score @s hb.resi_duration matches 14 run effect give @s minecraft:resistance 14 1
+execute if score @s hb.resi_duration matches 15 run effect give @s minecraft:resistance 15 1
+execute if score @s hb.resi_duration matches 16 run effect give @s minecraft:resistance 16 1
+execute if score @s hb.resi_duration matches 17 run effect give @s minecraft:resistance 17 1

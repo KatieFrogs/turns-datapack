@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"turns:load",
+		"turns:tick",
+		"heart_bound:load",
+		"heart_bound:tick"
+	]
+}
