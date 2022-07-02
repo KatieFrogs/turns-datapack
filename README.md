@@ -3,6 +3,8 @@ Multiplayer datapack where all the players control a single character one by one
 
 **Requires the [Carpet mod](https://github.com/gnembon/fabric-carpet) for the [/player](https://github.com/gnembon/fabric-carpet/wiki/Commands#player) command**
 
+Optionally, clients that join the server can install the [nomoreturns Fabric mod](https://github.com/hapaxant/nomoreturns) that sends the `/trigger t` command on right click while spectating.
+
 ### Known issues
 - Items are lost if the turn ends while a player is dragging or crafting them
 - Beds do not work
