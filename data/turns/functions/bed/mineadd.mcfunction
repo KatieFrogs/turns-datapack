@@ -1,0 +1,16 @@
+scoreboard objectives add TurnsBedMine1 minecraft.mined:minecraft.black_bed
+scoreboard objectives add TurnsBedMine2 minecraft.mined:minecraft.blue_bed
+scoreboard objectives add TurnsBedMine3 minecraft.mined:minecraft.brown_bed
+scoreboard objectives add TurnsBedMine4 minecraft.mined:minecraft.cyan_bed
+scoreboard objectives add TurnsBedMine5 minecraft.mined:minecraft.gray_bed
+scoreboard objectives add TurnsBedMine6 minecraft.mined:minecraft.green_bed
+scoreboard objectives add TurnsBedMine7 minecraft.mined:minecraft.light_blue_bed
+scoreboard objectives add TurnsBedMine8 minecraft.mined:minecraft.light_gray_bed
+scoreboard objectives add TurnsBedMine9 minecraft.mined:minecraft.lime_bed
+scoreboard objectives add TurnsBedMine10 minecraft.mined:minecraft.magenta_bed
+scoreboard objectives add TurnsBedMine11 minecraft.mined:minecraft.orange_bed
+scoreboard objectives add TurnsBedMine12 minecraft.mined:minecraft.pink_bed
+scoreboard objectives add TurnsBedMine13 minecraft.mined:minecraft.purple_bed
+scoreboard objectives add TurnsBedMine14 minecraft.mined:minecraft.red_bed
+scoreboard objectives add TurnsBedMine15 minecraft.mined:minecraft.white_bed
+scoreboard objectives add TurnsBedMine16 minecraft.mined:minecraft.yellow_bed

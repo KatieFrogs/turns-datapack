@@ -7,7 +7,7 @@ Optionally, clients that join the server can install the [nomoreturns Fabric mod
 
 ### Known issues
 - Items are lost if the turn ends while a player is dragging or crafting them
-- Beds do not work
+  - Can be partially worked around with [autoCraftingTable](https://github.com/gnembon/carpet-autoCraftingTable)
 
 ### Credits
 - A modified version of the [Shared Hearts](https://www.planetminecraft.com/data-pack/shared-hearts/) datapack by -LEO- is used
