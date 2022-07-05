@@ -17,6 +17,7 @@ scoreboard objectives add TurnsQueue dummy "Queue"
 scoreboard objectives add TurnsSpectate dummy
 scoreboard objectives setdisplay sidebar TurnsQueue
 scoreboard objectives add t trigger
+scoreboard objectives add xpcopy dummy
 scoreboard players set #20 TurnsTick 20
 
 function turns:bed/placeadd
